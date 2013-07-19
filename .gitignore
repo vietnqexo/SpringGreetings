@@ -22,3 +22,6 @@ pom.xml~
 .DS_Store
 transaction.log
 springgreetingslog.log
+test.log
+test.properties
+test.script
